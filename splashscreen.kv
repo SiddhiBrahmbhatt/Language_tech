@@ -1,0 +1,32 @@
+MDScreen:
+# Set screen name
+    name: "splashscreen"
+# Start the progress bar animation when the screen is active
+    on_enter: self.ids.progress.start(
+
+        # Add float layout
+        FloatLayout:
+        # Add Gif image
+        Image:
+            source: 'Users/Sid_kivy/LT.png"
+            allow_stretch: True
+            anim_delay: 0
+            # anim loop: 1
+            anim_reset: True
+
+        # Add box layout
+        BoxLayout:
+            # Set box position
+            padding: "10dp"
+
+
+        # Add progress bar
+        MDProgressBar:
+            # Set progress id
+            id: progress
+            # Set orientation
+            orientation: "horizontal"
+            # Set progress type
+            type: "indeterminate"
+    )
+
