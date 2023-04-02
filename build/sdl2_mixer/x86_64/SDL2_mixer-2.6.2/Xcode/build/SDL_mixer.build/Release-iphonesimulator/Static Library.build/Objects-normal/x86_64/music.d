@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2_mixer/x86_64/SDL2_mixer-2.6.2/src/music.c \
+  /Users/siddhibrahmbhatt/Sid_Kivy/dist/include/common/sdl2/SDL_hints.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/dist/include/common/sdl2/SDL_stdinc.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/dist/include/common/sdl2/SDL_config.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/dist/include/common/sdl2/SDL_platform.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/dist/include/common/sdl2/begin_code.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/dist/include/common/sdl2/close_code.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/dist/include/common/sdl2/SDL_config_iphoneos.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/dist/include/common/sdl2/SDL_log.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/dist/include/common/sdl2/SDL_timer.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/dist/include/common/sdl2/SDL_error.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2_mixer/x86_64/SDL2_mixer-2.6.2/include/SDL_mixer.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/dist/include/common/sdl2/SDL_rwops.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/dist/include/common/sdl2/SDL_audio.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/dist/include/common/sdl2/SDL_endian.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/dist/include/common/sdl2/SDL_mutex.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/dist/include/common/sdl2/SDL_thread.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/dist/include/common/sdl2/SDL_atomic.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/dist/include/common/sdl2/SDL_version.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2_mixer/x86_64/SDL2_mixer-2.6.2/src/mixer.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2_mixer/x86_64/SDL2_mixer-2.6.2/src/music.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2_mixer/x86_64/SDL2_mixer-2.6.2/src/codecs/music_cmd.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2_mixer/x86_64/SDL2_mixer-2.6.2/src/codecs/music_wav.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2_mixer/x86_64/SDL2_mixer-2.6.2/src/codecs/music_modplug.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2_mixer/x86_64/SDL2_mixer-2.6.2/src/codecs/music_xmp.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2_mixer/x86_64/SDL2_mixer-2.6.2/src/codecs/music_nativemidi.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2_mixer/x86_64/SDL2_mixer-2.6.2/src/codecs/music_fluidsynth.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2_mixer/x86_64/SDL2_mixer-2.6.2/src/codecs/music_timidity.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2_mixer/x86_64/SDL2_mixer-2.6.2/src/codecs/music_ogg.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2_mixer/x86_64/SDL2_mixer-2.6.2/src/codecs/music_opus.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2_mixer/x86_64/SDL2_mixer-2.6.2/src/codecs/music_drmp3.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2_mixer/x86_64/SDL2_mixer-2.6.2/src/codecs/music_mpg123.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2_mixer/x86_64/SDL2_mixer-2.6.2/src/codecs/music_drflac.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2_mixer/x86_64/SDL2_mixer-2.6.2/src/codecs/music_flac.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2_mixer/x86_64/SDL2_mixer-2.6.2/src/codecs/native_midi/native_midi.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2_mixer/x86_64/SDL2_mixer-2.6.2/src/utils.h

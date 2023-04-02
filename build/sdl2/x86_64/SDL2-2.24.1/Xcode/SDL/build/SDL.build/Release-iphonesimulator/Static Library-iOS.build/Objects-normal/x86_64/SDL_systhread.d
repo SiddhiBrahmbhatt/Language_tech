@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/thread/pthread/SDL_systhread.c \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/thread/pthread/../../SDL_internal.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/thread/pthread/../../dynapi/SDL_dynapi.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_config.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_platform.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/begin_code.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/close_code.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_config_iphoneos.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_assert.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_stdinc.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_log.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_system.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_keyboard.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_error.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_keycode.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_scancode.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_video.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_pixels.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_endian.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_rect.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_rwops.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_surface.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_blendmode.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_render.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_hints.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_thread.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_atomic.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_mutex.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/thread/pthread/../SDL_thread_c.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/thread/pthread/../pthread/SDL_systhread_c.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/thread/pthread/../../SDL_error_c.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/thread/pthread/../.././SDL_internal.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/thread/pthread/../SDL_systhread.h

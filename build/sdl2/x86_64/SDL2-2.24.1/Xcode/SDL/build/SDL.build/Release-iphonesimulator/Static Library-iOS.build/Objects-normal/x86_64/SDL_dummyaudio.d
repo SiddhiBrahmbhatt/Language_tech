@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/audio/dummy/SDL_dummyaudio.c \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/audio/dummy/../../SDL_internal.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/audio/dummy/../../dynapi/SDL_dynapi.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_config.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_platform.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/begin_code.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/close_code.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_config_iphoneos.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_assert.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_stdinc.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_log.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_timer.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_error.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_audio.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_endian.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_mutex.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_thread.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_atomic.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_rwops.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/audio/dummy/../SDL_audio_c.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/audio/dummy/SDL_dummyaudio.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/audio/dummy/../SDL_sysaudio.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/audio/dummy/../../SDL_dataqueue.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/audio/dummy/.././SDL_audio_c.h

@@ -1,17 +1,26 @@
 import kivy
-kivy.require('2.1.0') # replace with your current kivy version !
-
+kivy.require('2.1.0')
 from kivy.app import App
-from kivy.uix.label import Label
+from kivy.lang import Builder
 
+kv ="""
+BoxLayout:
+    canvas:
+        Color:
+            rgb: 1,1,3
+        Rectangle:
+            pos:self.pos
+            size:self.size
+    Image:
+        size_hint: None, None
+        size: dp(500), dp(56)
+        source:'Users/siddhibrahmbhatt/Desktop/Sid_Kivy/main.png'
+        
+"""
 
-class LanguageTechApp(App):
-
+class Language_Tech(App):
     def build(self):
-        print("Test--------------------")
-        return Label(text='Language_Tech')
+        return Builder.load_string(kv)
 
+Language_Tech().run()
 
-
-if __name__ == '__main__':
-    LanguageTechApp().run()

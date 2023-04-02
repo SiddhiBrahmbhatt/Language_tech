@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/joystick/steam/SDL_steamcontroller.c \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/joystick/steam/../../SDL_internal.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/joystick/steam/../../dynapi/SDL_dynapi.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_config.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_platform.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/begin_code.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/close_code.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_config_iphoneos.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_assert.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_stdinc.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_log.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/joystick/steam/../SDL_sysjoystick.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_joystick.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_error.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_guid.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/joystick/steam/../SDL_joystick_c.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_gamecontroller.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_rwops.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/include/SDL_sensor.h \
+  /Users/siddhibrahmbhatt/Sid_Kivy/build/sdl2/x86_64/SDL2-2.24.1/src/joystick/steam/SDL_steamcontroller.h
