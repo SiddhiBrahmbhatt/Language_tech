@@ -1,6 +1,22 @@
-# Translator App
+For Kivy - Cross Platform Application 
 
-This is a Django app that allows users to translate text from one language to another.
+Must follow 
+https://kivy.org/doc/stable/gettingstarted/installation.html
+
+This provide Installation to OpenGl and kivy Library, with events and its work flow
+
+Python plays major role here to create application
+
+# For Google MLKit API
+Speech recognizer - SFSpeechRecognizer - Native module
+	
+	- For recognising user speech. Default language is “en-US”. For more info refer SpeechRecognizer.swift in Helpers folder. For documentation refer https://developer.apple.com/documentation/speech/sfspeechrecognizer.
+
+
+
+# This FOR Python APIs and database connection
+
+This is lANGUAGE_Tech app that allows users to translate text from one language to another.
 
 # Requirements
 
